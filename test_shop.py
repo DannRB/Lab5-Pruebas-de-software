@@ -11,7 +11,7 @@ def test_order_normal():
             "quantity": 1
         },
         {
-            "name": "Mouse",
+             "name": "Mouse",
             "price": 300,
             "quantity": 1
         }
